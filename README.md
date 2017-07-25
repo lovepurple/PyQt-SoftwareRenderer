@@ -1,2 +1,4 @@
 # PyQtSoftwareRenderer
-Software Renderer Base on PyQt
+
++ 使用PyQt5 环境
++ 用于学习图形渲染管线
